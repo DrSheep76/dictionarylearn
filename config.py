@@ -45,8 +45,8 @@ class Main(Tk):
 		self.lb = Listbox(self, )
 		self.wrd = Entry(self, text='word')
 		self.trn = Entry(self, )
-		self.btn1 = Button(self, text='Insert')
-		self.btn2 = Button(self, text='Delete')
+		self.btn1 = Button(self, text='Вставить')
+		self.btn2 = Button(self, text='Удалить')
 
 		#self.lb.insert(0, 'aaa')
 		self.wrd.bind('<Return>', self.add)
