@@ -1,2 +1,2 @@
-# dictionarylearn
-Program for learning words
+# DictionaryLearn
+Программа для изучения иностранных слов
